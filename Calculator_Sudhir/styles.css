@@ -1,0 +1,36 @@
+#textInput{
+    display: flex;
+    height: 5rem;
+    text-align: right;
+    padding: 1rem;
+    
+}
+#textInput:hover{
+    background-color: #e0f2fe; 
+    color: #475569;
+}
+
+.customButton:hover{
+    color: #fff;
+    background-color:#475569;
+    transition-delay: 0.5ms;
+}
+
+#equalsTo{
+    background-color: green;
+}
+.row{
+    cursor: pointer;
+}
+
+/* curreny */
+#dropDown{
+    display: flex;
+   
+   }
+   .btnFoucs{
+       outline: 0 none ;
+   } 
+/* #currencyDiv{
+    display: none;
+}    */
